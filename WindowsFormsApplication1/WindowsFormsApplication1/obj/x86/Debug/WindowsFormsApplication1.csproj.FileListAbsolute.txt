@@ -1,0 +1,10 @@
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Wassim\Desktop\airport\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
